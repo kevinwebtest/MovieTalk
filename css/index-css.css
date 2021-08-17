@@ -1,0 +1,146 @@
+#about hr, #tvnews hr {
+	width: 200px;
+	border-top: 4px solid #777;
+}
+
+#home h1{
+	font-size: 230px;
+}
+
+.bg-gradient{
+	opacity: 0.4;
+	background-color: #000;
+}
+
+/*#search-button a:link {
+  text-decoration: none;
+}
+*/
+#subbutton{
+	margin-left: 15px;
+}
+
+#search-icon{
+	margin-right: 20px;
+}
+
+#search-icon a:hover{
+/*	opacity: 1;*/
+}
+
+
+section{
+	min-height: 700px;
+}
+
+#home{
+	background-color: #212529;
+	color: #ececec;
+	min-height: 910px;
+	padding-top: 250px;
+}
+
+#movienews{
+	background-color: #ececec;
+	color: #111;
+}
+
+#movienews hr {
+	width: 200px;
+	border-top: 4px solid #aaa;
+}
+
+#tvnews .imgwidth image{
+	width: 100%;
+}
+
+#tvnews .imgheight image{
+	height: 100%;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+/*SEARCH PAGE*/
+#search{
+	padding-top: 250px;
+}
+
+#hr-search{
+	border-top: 1px solid #FFF;
+}
+.card-search{
+	color:#000;
+}
+
+/*PAGE REVIEWS*/
+
+.carousel-item{
+	height: 600px;
+}
+
+#movieposter img{
+	width: 100%;
+
+}
+
+.card-body a{
+	text-decoration: none;
+	color: #000;
+}
+
+.card-body a:hover{
+	color: #555;
+}
+
+/*PAGE INDUVIDUAL REVIEWS*/
+#screen, #screen2{
+	height: 620px;
+}
+
+#screen img{
+	object-fit: cover;
+	object-position: 100% 0;
+	height: 600px;
+}
+
+.card-body a{
+	font-size: 15px;
+}
+
+#screen2 img{
+	object-fit: cover;
+	object-position: 0 50%;
+	height: 600px;
+}
+
+/*SUBSCRIBE PAGE*/
+#subscribe-page{
+	background-color: #212529;
+	color: #ececec;
+}
+
+#email{
+	padding-top: 200px;
+
+}
+
+#email h1{
+	font-size: 70px;
+}
+
+#email p{
+	color: #C0C0C0;
+}
+
+/*SUBMIT PAGE*/
+#submit-page{
+	background-color: #212529;
+}
+
+#aftersubmit{
+	padding-top: 400px;
+	font-size: 40px;
+	color: #ececec;
+}
